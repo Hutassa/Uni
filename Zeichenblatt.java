@@ -1,5 +1,3 @@
-package zeichenBlattErweiterung;
-
 /** Zeichenblatt
  *
  * Einfache Java-Klasse zum Zeichnen einfacher Grafikelemente

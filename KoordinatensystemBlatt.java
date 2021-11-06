@@ -1,5 +1,3 @@
-package zeichenBlattErweiterung;
-
 import java.awt.*;
 import javax.swing.*;
 
